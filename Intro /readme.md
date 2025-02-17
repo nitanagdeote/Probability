@@ -9,4 +9,6 @@ $P(H)$
 where 
 
 P is the probability 
-H is head
+H is head i.e. event of getting head
+
+Probability(event) = $probability of getting the event/total number of outcomes$
