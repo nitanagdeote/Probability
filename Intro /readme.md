@@ -11,4 +11,4 @@ where
 P is the probability 
 H is head i.e. event of getting head
 
-Probability(event) = $probability of getting the event/total number of outcomes$
+Probability(event) = probability of getting the event$/$total number of outcomes
