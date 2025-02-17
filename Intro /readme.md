@@ -10,4 +10,5 @@ where
 
 P is the probability 
 H is head i.e. event of getting head
+
 $Probability(event) = Number of event\div total number of outcomes$
