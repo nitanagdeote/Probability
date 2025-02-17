@@ -4,7 +4,7 @@
 
 The probality of getting head is denoted by 
 
-$ P(H) $  
+$P(H)$  
 
 where 
 
