@@ -5,6 +5,7 @@
 The probality of getting head is denoted by 
 
 $P(H) $ \
+
 where 
 
 P is the probability 
